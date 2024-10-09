@@ -1,3 +1,13 @@
+# Day 05/Day 30: Simple Calculator
+🚀 Excited to share my Day 5 project of the 30-Day Challenge! Today, I built a simple calculator app using Next.js and the ShadCN library.
+
+This calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division, all while providing a smooth user experience.
+
+
+Working on this project has enhanced my skills in Next.js and React component libraries. I faced some challenges with implementing the ShadCN library but found great solutions through experimentation and learning.
+
+I would love to hear your thoughts! Feel free to check it out and let me know what you think in the comments below!
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
